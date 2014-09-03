@@ -1,0 +1,36 @@
+{
+  "name": "hubot-nationalrail",
+  "description": "Get National Rail live departure information",
+  "version": "0.0.1",
+  "author": "John Hamelink <john@johnhamelink.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhamelink/hubot-nationalrail.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/johnhamelink/hubot-nationalrail/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {}
+}
