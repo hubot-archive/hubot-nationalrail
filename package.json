@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnhamelink/hubot-nationalrail.git"
+    "url": "git://github.com/hubot-scripts/hubot-nationalrail.git"
   },
 
   "bugs": {
-    "url": "https://github.com/johnhamelink/hubot-nationalrail/issues"
+    "url": "https://github.com/hubot-scripts/hubot-nationalrail/issues"
   },
 
   "dependencies": {
